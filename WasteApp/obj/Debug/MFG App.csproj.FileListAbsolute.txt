@@ -1,0 +1,35 @@
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChatApp.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Find_Me.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Find_Us.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Locator.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\MFG App.csproj.GenerateResource.Cache
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\MFG App.csproj.CoreCompileInputs.cache
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Confirmation.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login2.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Wallet.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Find_Out.resources
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\MFG App.csprojResolveAssemblyReference.cache
+C:\Users\Andile Ma-Ash\source\repos\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FullDetails.resources
+E:\MFG APP\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\MFG APP\WindowsFormsApp1\obj\Debug\MFG App.csprojResolveAssemblyReference.cache
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChatApp.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Find_Out.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Wallet.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Find_Me.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Find_Us.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login2.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Confirmation.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FullDetails.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Locator.resources
+E:\MFG APP\WindowsFormsApp1\obj\Debug\MFG App.csproj.GenerateResource.Cache
